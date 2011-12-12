@@ -1,0 +1,20 @@
+body{ background-color: #0099CC; }
+
+h1, li{ color: #FFF; }
+
+li{ list-style: none; margin: 10px;}
+ul { margin: 50px 0; padding: 0;}
+li > a {background:url('../img/icons.png') no-repeat;}
+li .skype {background-position:0px 0px;}
+li .email {background-position:0px -32px;}
+li .github {background-position:0px -48px;}
+li .linkedin {background-position:0px -64px;}
+li .twitter {background-position:0px -80px;}
+li .aboutme {background-position:0px -96px;}
+.phone { background:url('../img/icons.png') no-repeat; background-position:0px -16px; }
+span { padding-left: 25px;}
+
+a, a .link, a .visited { color: #FFF; text-decoration: none;}
+a .hover { color: #000; text-decoration: underline; }
+
+h1 { font-size: 4em; font-family: serif; margin-top: 200px;}
